@@ -1,2 +1,2 @@
 # android_calculator
-This is simple calculator made in Android Studio..
+This is simple calculator for android.
